@@ -4,7 +4,7 @@
 My motivation for this project was to make a 9am-5pm work day plan calender using HTML, CSS, and JavaScript. At the top of the page, the current date will be shown. Underneath the date it will display 8 hours of slots, color coded to past, present, and future depending on what time it is. When you click on a slot you can then add an event in that hour and click save to save the event.
 
 ## Image and Link:
-
+![Alt text](./assets/planner-screenshot.png)
 Link to deployed website: 
 
 ## Installation:
