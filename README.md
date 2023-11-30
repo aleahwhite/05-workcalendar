@@ -5,7 +5,7 @@ My motivation for this project was to make a 9am-5pm work day plan calender usin
 
 ## Image and Link:
 ![Alt text](./assets/planner-screenshot.png)
-Link to deployed website: 
+Link to deployed website:   https://aleahwhite.github.io/05-workcalender/ 
 
 ## Installation:
 N/A
