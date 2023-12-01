@@ -1,7 +1,7 @@
 # Challenge 5 - Work Day Calender
 
 ## Description
-My motivation for this project was to make a 9am-5pm work day plan calender using HTML, CSS, and JavaScript. At the top of the page, the current date will be shown. Underneath the date it will display 8 hours of slots, color coded to past, present, and future depending on what time it is. When you click on a slot you can then add an event in that hour and click save to save the event.
+My motivation for this project was to make a 9am-5pm work day plan calender using HTML, CSS, and JavaScript. At the top of the page, the current day and date will be shown. Underneath the date it will display 8 hours of slots, color coded to past, present, and future depending on what hour it is. When you click on a slot you can then add an event in that hour and click save to save the event to the local storage. When you refresh or revisit the link, your tasks will still be listed under the correct hour.
 
 ## Image and Link:
 ![Alt text](./assets/planner-screenshot.png)
